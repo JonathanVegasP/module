@@ -1,0 +1,5 @@
+targets:
+  $default:
+    builders:
+      module_builder|modules:
+        generate_for:
